@@ -1,0 +1,21 @@
+[package]
+name = "omen"
+version = "0.1.0"
+edition = "2021"
+description = "A rust crate for generating microservice boilerplate code"
+license = "MIT"
+authors = ["Mrinal mrinalbitsat@gmail.com"]
+
+
+[dependencies]
+clap = { version = "*", features = ["derive"] }
+askama = "0.11"
+anyhow = "1.0"
+
+[lib]
+name = "omen"
+path = "src/lib.rs"
+
+[[bin]]
+name = "omen"
+path = "src/main.rs"
