@@ -5,6 +5,14 @@ edition = "2021"
 description = "A rust crate for generating microservice boilerplate code"
 license = "MIT"
 authors = ["Mrinal mrinalbitsat@gmail.com"]
+homepage = "https://github.com/mrinalxdev/omen"
+repository = "https://github.com/mrinalxdev/omen"
+keywords = [
+    "microservice",
+    "boilerplate",
+    "wrape"
+]
+categories = ["boilerplate"]
 
 
 [dependencies]
