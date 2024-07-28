@@ -8,8 +8,8 @@ authors = ["Mrinal mrinalbitsat@gmail.com"]
 homepage = "https://github.com/mrinalxdev/omen"
 repository = "https://github.com/mrinalxdev/omen"
 keywords = [
-    "microservice",
-    "os"
+    "command-line-utilities",
+    "config"
 ]
 categories = ["boilerplate"]
 
