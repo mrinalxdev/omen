@@ -8,7 +8,7 @@ authors = ["Mrinal mrinalbitsat@gmail.com"]
 homepage = "https://github.com/mrinalxdev/omen"
 repository = "https://github.com/mrinalxdev/omen"
 keywords = [
-    "command-line-utilities",
+    "compilers",
     "config"
 ]
 categories = ["boilerplate"]
