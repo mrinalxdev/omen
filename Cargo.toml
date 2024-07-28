@@ -9,8 +9,7 @@ homepage = "https://github.com/mrinalxdev/omen"
 repository = "https://github.com/mrinalxdev/omen"
 keywords = [
     "microservice",
-    "boilerplate",
-    "wrape"
+    "os"
 ]
 categories = ["boilerplate"]
 
