@@ -1,5 +1,5 @@
 [package]
-name = "omen"
+name = "omen_micro"
 version = "0.1.0"
 edition = "2021"
 description = "A rust crate for generating microservice boilerplate code"
